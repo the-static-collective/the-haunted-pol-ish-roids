@@ -8,4 +8,16 @@ The camera's personality should be felt rather than exposed as a stat sheet. Its
 
 Planned lineage mechanics include irreversible **Burn the Camera** succession through a single-use **Phoenix Egg** and reciprocal, asymmetric **Quantum Chrysalis** encounters between living cameras.
 
+## Emerging world layer
+
+A photograph does not have to terminate as a post.
+
+The `world-not-the-feed-001` branch explores a complementary relational layer where admitted photographs can become **doors** into people, places, objects, eras, events, sounds, contributions, and other witnesses. The governing inversion is:
+
+> **THE WORLD, NOT THE FEED.**
+
+The first proof is intentionally small: ingest roughly 30 photographs, preserve their source witnesses, discover candidate relationships, turn them into an explorable world, and let a human contribution change the available paths without confusing inference with fact.
+
+See `docs/superpowers/specs/2026-09-27-world-not-the-feed.md`.
+
 Status: **design/specification phase**. See issue #1 for the approved organism and design gate.
