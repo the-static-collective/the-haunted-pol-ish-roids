@@ -430,7 +430,156 @@ The minimum magic test is:
 
 > I entered one photograph, followed a relation I had not manually arranged, added something of my own, and the available world changed without the system pretending its guesses were facts.
 
-## 8. Explicit non-goals for the first slice
+## 8. Kindtroll surface — EMBARRASS THE RECTANGLE
+
+The world layer should be able to travel back through conventional scroll surfaces without becoming one.
+
+The posture is not hostility toward people who scroll, creators who use feeds, or the platforms themselves. The joke is representational: let the flattened post advertise the existence of a richer object behind it.
+
+Governing law:
+
+> **Never shame the scroller. Embarrass the rectangle.**
+
+Candidate mechanics:
+
+### 8.1 Anti-Carousel
+
+A conventional carousel may begin like an ordinary post, then reveal that the photograph has somewhere to go.
+
+Example progression:
+
+```text
+frame 1: photograph
+frame 2: this photograph has somewhere to go
+frame 3: one visible relation / door
+frame 4: flattened world map or invitation into the living object
+```
+
+The export is a projection, not the canonical world.
+
+### 8.2 Infinite Scroll Has an Ending
+
+Some exported artifacts should terminate deliberately.
+
+The product may say, in effect:
+
+> You reached the end. Go make something, go somewhere, or enter the photograph.
+
+Completion is allowed to feel better than retention.
+
+### 8.3 Dead Comment Resurrection
+
+Low-information reactions such as hearts, fire, applause, or "nice" may be playfully reinterpreted as invitations to act:
+
+```text
+LIKE      → SAVE / CONNECT
+🔥         → SAMPLE / HAUNT
+COMMENT   → ANSWER / ANNOTATE
+TAG       → LOCATE / RELATE
+SHARE     → CONTINUE / CARRY
+```
+
+This is not a judgment on the person who reacted. It reveals how little expressive bandwidth the old grammar gave them.
+
+### 8.4 Feed Fossils
+
+Imported legacy posts may preserve their old social metadata as archaeological context while the photograph acquires new relations.
+
+Old captions, timestamps, and user-authorized reaction counts may appear as a fossil layer beneath the living object.
+
+The fossil may be displayed; it may not become the governing importance score for the new world.
+
+### 8.5 Scroll Receipt
+
+After a bounded exploration, the system may summarize traversal in world terms rather than engagement terms.
+
+Example:
+
+> You did not view 10 posts. You crossed 4 places, 3 years, 2 people, and one recurring object.
+
+The receipt should derive from actual traversed nodes and edges rather than inventing narrative coherence.
+
+### 8.6 Reward Leaving
+
+The system is permitted to have no next thing.
+
+A world may explicitly end a session with:
+
+> There is nothing else here for you today.
+
+The absence of another engagement unit is not a product failure.
+
+### 8.7 Posts That Escape
+
+Exports to conventional feeds may carry a small, recognizable marker that indicates the artifact is only a flattened projection of a larger living object.
+
+The export should still stand on its own. It should not degrade into spam, bait, or an unusable advertisement.
+
+### 8.8 Thirty-Photo Challenge
+
+A public invitation may compress the first executable proof into a simple promise:
+
+> Give it 30 forgotten photographs. See whether they become somewhere.
+
+This is a product demonstration, not a demand that the user abandon another service.
+
+### 8.9 Last Post ritual
+
+A person may deliberately mark a conventional social post as a final flattened post while allowing the underlying world to keep growing elsewhere.
+
+This is an optional human ritual, not a platform-war mechanic.
+
+The conceptual move is:
+
+```text
+LAST POST
+   ↓
+not disappearance
+   ↓
+migration from timeline
+   ↓
+into inhabitable world
+```
+
+### 8.10 Kindtroll safety boundary
+
+Kindtrolling must not become:
+
+- harassment;
+- brigading;
+- unsolicited mass posting;
+- deceptive links;
+- impersonation;
+- platform sabotage;
+- manipulation of ranking systems;
+- attempts to make another person's experience worse;
+- shame aimed at people for using scroll-based products.
+
+The strongest troll is the product comparison itself.
+
+Let the user experience:
+
+```text
+post → post → post → post
+```
+
+and then:
+
+```text
+photograph
+  → person
+  → place
+  → song
+  → year
+  → another witness
+  → recurring object
+  → contribution
+  → new door
+```
+
+The world should win by being more expressive.
+
+## 9. Explicit non-goals for the first slice
 
 - infinite scrolling;
 - follower mechanics;
@@ -443,7 +592,7 @@ The minimum magic test is:
 - replacing the existing six-up camera loop;
 - letting inferred relations mutate canonical provenance.
 
-## 9. Cross-project seams
+## 10. Cross-project seams
 
 This expansion has natural compatibility with neighboring Static Collective work, but those projects do not silently gain authority here.
 
@@ -464,7 +613,7 @@ Potential imports:
 
 Each seam should be imported as a capability or law with provenance, not as automatic canon.
 
-## 10. Strategic test
+## 11. Strategic test
 
 The product is on the right path when importing a legacy social-photo archive does **not** make the user say:
 
