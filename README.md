@@ -9,3 +9,16 @@ The camera's personality should be felt rather than exposed as a stat sheet. Its
 Planned lineage mechanics include irreversible **Burn the Camera** succession through a single-use **Phoenix Egg** and reciprocal, asymmetric **Quantum Chrysalis** encounters between living cameras.
 
 Status: **design/specification phase**. See issue #1 for the approved organism and design gate.
+
+## Photo Quarry crossing — private archive to living camera / world / press
+
+A local, executable archive handoff has been prototyped for existing JPEG/RAW collections.
+It inventories and human-shortlists photographs, emits a content-addressed private
+`EAT_EXISTING` candidate manifest (with optional, explicitly requested local source copies),
+proposes non-authoritative World relations, and provides a manual income-review queue.
+
+**Canonical seam:** [CANON-QUARRY-POLAROID-001](docs/CANON-QUARRY-POLAROID-001.md).
+
+The crossing does **not** claim that the six-up living camera is implemented, that a
+traversable world exists, or that a Press listing has been published. The approved
+living-camera design and open implementation/world drafts remain separate.
